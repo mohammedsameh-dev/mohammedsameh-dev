@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="clion logo"  />
@@ -42,7 +42,11 @@
 
 ###
 
-<div align="center">
+<h3 align="left">Contacts :</h3>
+
+###
+
+<div align="left">
   <a href="www.linkedin.com/in/mohammed-sameh-533b482a5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -54,16 +58,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsameh-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" height="154" src="https://wallpapercat.com/w/full/f/6/d/5823592-1030x1030-phone-hd-boy-programmer-wallpaper-photo.jpg"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsameh-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://wallpapercat.com/w/full/f/6/d/5823592-1030x1030-phone-hd-boy-programmer-wallpaper-photo.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/mohammedsameh-dev/mohammedsameh-dev/output/snake.svg" alt="Snake animation" />
 
 ###
