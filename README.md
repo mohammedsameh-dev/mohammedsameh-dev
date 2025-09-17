@@ -63,7 +63,12 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsameh-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedsameh-dev&show_icons=true&theme=radical&hide_border=false&locale=en" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsameh-dev&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsameh-dev&theme=radical&hide_border=false" height="180" alt="GitHub Streak" />
 </div>
 
 <br clear="both">
