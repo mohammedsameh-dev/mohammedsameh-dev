@@ -59,19 +59,27 @@
 
 ---
 
+### 💼 Professional Experience
+
+**🎯 Specializations:**
+- **React Development** - Modern component-based applications
+- **Responsive Design** - Mobile-first, cross-browser compatibility  
+- **Performance Optimization** - Fast loading, smooth interactions
+- **UI/UX Implementation** - Pixel-perfect design conversion
+
+**📈 Development Stats:**
+- ✅ **3+ Years** JavaScript/React Experience
+- 🔥 **Current Focus:** TypeScript, Next.js, Strapi
+- 💪 **Coding Style:** Clean, maintainable, well-documented code
+- 🚀 **Delivery:** On-time, within budget, quality focused
+
 <img align="right" height="200" src="https://wallpapercat.com/w/full/f/6/d/5823592-1030x1030-phone-hd-boy-programmer-wallpaper-photo.jpg" alt="Developer illustration" />
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedsameh-dev&show_icons=true&theme=radical&hide_border=false&locale=en" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedsameh-dev&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsameh-dev&theme=radical&hide_border=false" height="180" alt="GitHub Streak" />
-</div>
-
-<br clear="both">
+**🛠️ Recent Work:**
+- Building **E-commerce Platform** with React & Next.js
+- Implementing **Modern Payment Systems**
+- Creating **Responsive UI Components**
+- Optimizing **Web Performance**
 
 ---
 
