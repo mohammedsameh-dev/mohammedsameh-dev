@@ -118,22 +118,22 @@
 - **Features:** Shopping cart, payment integration, user authentication
 - **Status:** 70% Complete
 
-**📝 To-Do List App** | July 2025 | [View Code](#)
+**📝 To-Do List App** | July 2025 | [Live Demo](https://to-do-list-two-theta-10.vercel.app/) | [View Code](https://github.com/mohammedsameh-dev/To-Do-List)
 - **Tech:** React, Tailwind CSS
 - **Features:** CRUD operations, localStorage persistence, responsive design
 - **Highlights:** Clean UI, efficient state management
 
-**☕ Coffee Market Website** | June 2025 | [View Code](#)
+**☕ Coffee Market Website** | June 2025 | [Live Demo](https://mohammedsameh-dev.github.io/Coffee-Market/) | [View Code](https://github.com/mohammedsameh-dev/Coffee-Market)
 - **Tech:** HTML5, CSS3, JavaScript, Bootstrap
 - **Features:** Responsive design, product categories, testimonials, contact forms
 - **Highlights:** Mobile-optimized, modern layout, social integration
 
-**💳 E-Wallet System** | [View Code](#)
+**💳 E-Wallet System** | [Live Demo](https://e-wallet-system.vercel.app/) | [View Code](https://github.com/mohammedsameh-dev/E-Wallet-System)
 - **Tech:** React, Tailwind CSS, localStorage
 - **Features:** Balance management, deposit/withdraw functionality
 - **Focus:** Financial app UI/UX patterns
 
-**🍽️ Meal Explorer** | [View Code](#)
+**🍽️ Meal Explorer** | [Live Demo](https://mohammedsameh-dev.github.io/Meal-Explorer/) | [View Code](https://github.com/mohammedsameh-dev/Meal-Explorer)
 - **Tech:** HTML, CSS, JavaScript, TheMealDB API
 - **Features:** Recipe search, category filtering, API integration
 - **Highlights:** External API consumption, dynamic content rendering
