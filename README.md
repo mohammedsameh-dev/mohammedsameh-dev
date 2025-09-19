@@ -113,10 +113,10 @@
 
 ### 🎯 Featured Projects
 
-**🛒 E-commerce Platform** | *In Development*
-- **Tech:** React, Next.js, TypeScript
-- **Features:** Shopping cart, payment integration, user authentication
-- **Status:** 70% Complete
+**🛒 E-commerce Platform** | Sept 2025 | [Live Demo](https://smart-shop-react-ecommerce-app-w47e.vercel.app/) | [View Code](https://github.com/mohammedsameh-dev/SmartShop-React-Ecommerce-App)
+- **Tech:** React, Tailwind CSS, Axios
+- **Features:** API integration, product filtering, dynamic routing
+- **Highlights:** Smooth user experience, reusable components
 
 **📝 To-Do List App** | July 2025 | [Live Demo](https://to-do-list-two-theta-10.vercel.app/) | [View Code](https://github.com/mohammedsameh-dev/To-Do-List)
 - **Tech:** React, Tailwind CSS
